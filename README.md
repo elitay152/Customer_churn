@@ -1,5 +1,5 @@
 # Predicting customer churn
 
-This is a project on predicting customer churn from a banking customer dataset on Kaggle.
+This is a project on predicting customer churn from a banking customer dataset on Kaggle, using both logistic regression and a random forest classifier.
 
-![image](ROC_curve.png)
+![image](finance-4858797_1280.jpg)
